@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Huzaifa Asif</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=1500&pause=300&color=000000&center=true&vCenter=true&width=650&lines=Software+Engineer;Full+Stack+Developer;" />
+</p>
+
 
 - 🔭 I’m currently working on [Personal-Portfolio](https://my-secure-portfolio.vercel.app/)
 
